@@ -16,5 +16,10 @@ namespace MvcApplication2.Controllers
             return View();
         }
 
+        public ActionResult Foo()
+        {
+            return View();
+        }
+
     }
 }
